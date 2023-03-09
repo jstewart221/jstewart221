@@ -1,4 +1,4 @@
-<h1>Hi, I'm James! <br/><a href="https://github.com/joshmadakor1">Cloud Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Solutions Architech</a>, 
+<h1>Hi, I'm James! <br/><a href="https://github.com/Jstewart221">Cloud Professional</a>, <a href="https://www.linkedin.com/in/technicallyjamesstewart/">Solutions Architech</a>, 
 
 <h2>👨‍💻 Projects:</h2>
 
