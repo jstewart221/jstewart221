@@ -11,9 +11,9 @@ CompTIA A+
 [<img align="left" alt="Jstewart221 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jstewart221 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https//twitter.com
+[twitter]: https://twitter.com/technicallyjs
 [youtube]: https://www.youtube.com
-[instagram]: https://www.instagram.com
+[instagram]: https://www.instagram.com/technicallyjamesstewart
 [linkedin]: https://linkedin.com/in/technicallyjamesstewart
 
 <!--
